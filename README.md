@@ -14,7 +14,7 @@ It has been developed using the [Forge-Convert-Utils][forgeconvertutils] package
 
 This librairy only works with local **SVF** files.
 
-1. Import the files into your project or clone this repo
+1. Download or clone this repo
 
 2. Download your **SVF** using [Forge-Convert-Utils][forgeconvertutils] or [Extract-Autodesk]("https://github.com/cyrillef/extract.autodesk.io")
 
