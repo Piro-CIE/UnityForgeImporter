@@ -16,11 +16,11 @@ This library only works with local **SVF** files.
 
 1. Download or clone this repo
 
-2. Download your **SVF** using [Forge-Convert-Utils][forgeconvertutils] or [Extract-Autodesk](https://github.com/cyrillef/extract.autodesk.io)
+2. Download your **SVF** using [Forge-Convert-Utils][forgeconvertutils] or [Extract-Autodesk](https://github.com/cyrillef/extract.autodesk.io). Samples can downloaded from [Forge-RCDB Gallery](https://forge-rcdb.autodesk.io/gallery)
 
-3. Place these file into your Unity project (StreamingAssets folder for exemple)
+3. Put **SVF** files into your Unity project (StreamingAssets folder for exemple)
 
-4. Create an instance of the `ForgeSvfImporter` and load the model with the `loadSvf` method
+4. Create an instance of the `ForgeSvfImporter` and load the model with the `ReadSvf` method
 
 ```
     ForgeSvfImporter svfImporter = new ForgeSvfImporter();
@@ -37,7 +37,7 @@ This project has been developed under Unity 2019.4.23f1. It should work on newer
 - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
 ## License
 
-This project is licensed under the terms of the MIT License. Please see the LICENSE file for full details.
+This project is licensed under the terms of the MIT License. Please see the [LICENSE](LICENSE) file for full details.
 ## Trademarks
 
 *Unity* is a registered trademark of [Unity Technologies][unity] <br>
