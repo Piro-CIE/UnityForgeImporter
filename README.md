@@ -16,7 +16,7 @@ This library only works with local **SVF** files.
 
 1. Download or clone this repo
 
-2. Download your **SVF** using [Forge-Convert-Utils][forgeconvertutils] or [Extract-Autodesk]("https://github.com/cyrillef/extract.autodesk.io")
+2. Download your **SVF** using [Forge-Convert-Utils][forgeconvertutils] or [Extract-Autodesk](https://github.com/cyrillef/extract.autodesk.io)
 
 3. Place these file into your Unity project (StreamingAssets folder for exemple)
 
@@ -33,8 +33,8 @@ This project has been developed under Unity 2019.4.23f1. It should work on newer
 
 ## Dependencies
 
-- [NewtonSoft Json]("https://www.newtonsoft.com/json")
-- [SharpZipLib]("https://github.com/icsharpcode/SharpZipLib")
+- [NewtonSoft Json](https://www.newtonsoft.com/json)
+- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib)
 ## License
 
 This project is licensed under the terms of the MIT License. Please see the LICENSE file for full details.
