@@ -6,17 +6,17 @@
 
 ![Forge & Unity logos](./Documentation/forge_unity_logos.png)
 
-A simple importer for [Unity](unity) to load [Autodesk Forge](autodeskforge) SVF models in runtime.
+A simple importer for [Unity][unity] to load [Autodesk Forge][autodeskforge] SVF models in runtime.
 
-It has been developed using the [Forge-Convert-Utils](forgeconvertutils) package. Most of this code is only Typescript to C# adaptation and the majority of the **SVF** reading logic is preserved.
+It has been developed using the [Forge-Convert-Utils][forgeconvertutils° package. Most of this code is only Typescript to C# adaptation and the majority of the **SVF** reading logic is preserved.
 
 ## Usage
 
-This librairy only work with local **SVF** files.
+This librairy only works with local **SVF** files.
 
 1. Import the files into your project or clone this repo
 
-2. Download your **SVF** using [Forge-Convert-Utils](forgeconvertutils) or [Extract-Autodesk]("https://github.com/cyrillef/extract.autodesk.io")
+2. Download your **SVF** using [Forge-Convert-Utils][forgeconvertutils] or [Extract-Autodesk]("https://github.com/cyrillef/extract.autodesk.io")
 
 3. Place these file into your Unity project (StreamingAssets folder for exemple)
 
