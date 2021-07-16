@@ -12,7 +12,7 @@ It has been developed using the [Forge-Convert-Utils][forgeconvertutils] package
 
 ## Usage
 
-This librairy only works with local **SVF** files.
+This library only works with local **SVF** files.
 
 1. Download or clone this repo
 
