@@ -8,7 +8,7 @@
 
 A simple importer for [Unity][unity] to load [Autodesk Forge][autodeskforge] SVF models in runtime.
 
-It has been developed using the [Forge-Convert-Utils][forgeconvertutils° package. Most of this code is only Typescript to C# adaptation and the majority of the **SVF** reading logic is preserved.
+It has been developed using the [Forge-Convert-Utils][forgeconvertutils] package. Most of this code is only Typescript to C# adaptation and the majority of the **SVF** reading logic is preserved.
 
 ## Usage
 
